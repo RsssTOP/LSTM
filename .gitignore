@@ -1,0 +1,19 @@
+# Data
+/data/raw
+/data/processed
+/data/features
+/data/artifacts
+
+# MLflow
+/mlruns
+
+# Logs
+/logs
+
+# Environments
+.venv
+venv
+
+# Python cache
+__pycache__/
+*.pyc
