@@ -3,6 +3,12 @@
 /data/processed
 /data/features
 /data/artifacts
+/data/reports
+!/data/raw/.gitkeep
+!/data/processed/.gitkeep
+!/data/features/.gitkeep
+!/data/artifacts/.gitkeep
+!/data/reports/.gitkeep
 
 # MLflow
 /mlruns
